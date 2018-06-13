@@ -1,7 +1,7 @@
 ########################################
 # TestSourceCode.py
 #
-# Developed by Shunsuke SAKURAI, Satochi
+# Developed by Shunsuke SAKURAI, Satochi, Yukiho
 #
 # Last update: 13 Jun. 2018
 ########################################
